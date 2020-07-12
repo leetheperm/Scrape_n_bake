@@ -26,11 +26,6 @@ install all requirements by typing
 pip3 -r install requirements.txt
 ```
 
-options
-
---help has help menu
-
-
 ### Future updates
 
 - [ ] Cloud deployment
@@ -38,8 +33,6 @@ options
 - [ ] Unit tests
 - [ ] Python package
 - [ ] write to csv files
-
-
 
 
 ### arguments
@@ -61,6 +54,11 @@ or
 ```
 python3 webscrape.py -l /usr/share/listofsites -f "p"
 ```
+
+options
+
+--help has help menu
+
 ### Contributors
 
 * Lee Davies
