@@ -1,4 +1,30 @@
-# Scraperoo
+# Scrape n Bake
+
+
+![](https://img.shields.io/badge/Python-3-blue)
+
+
+## Objective
+
+The objective of this project is to create a web scraping application that can be used for the most common use cases 
+
+
+## Tech stack
+
+Python 3.8
+Beautiful Soup
+Selenium Webdriver
+Geckodriver
+
+
+## Libraries
+
+install all requirements by typing
+```
+pip3 -r install requirements.txt
+```
+
+
 
 options
 
