@@ -17,8 +17,7 @@ The objective of this project is to create a web scraping application that can b
 
  ![python version](https://img.shields.io/badge/python-3.7.4-green)
 
-
- ![Bs4](https://img.shields.io/pypi/v/selenium)  Beautiful Soup
+![BeautifulSoup](https://img.shields.io/pypi/v/bs4)  Beautiful Soup
 
 
  ![Selenium](https://img.shields.io/pypi/v/selenium)  Selenium Webdriver
