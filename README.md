@@ -30,7 +30,13 @@ options
 
 --help has help menu
 
-### plans
+
+### Future updates
+
+- [ ] Cloud deployment
+- [ ] Django web scraping app
+- [x] Python package
+
 
 
 
@@ -53,4 +59,8 @@ or
 ```
 python3 webscrape.py -l /usr/share/listofsites -f "p"
 ```
+### Contributors
 
+* Lee Davies
+  * Github ![my github](https://www.github.com/leetheperm)
+  * Facebook ![facebook group](https://www.facebook.com/groups/cypress.testers)
