@@ -10,4 +10,7 @@ https://realpython.com/beautiful-soup-web-scraper-python/
 ###  scraping with python and mongodb
 https://realpython.com/web-scraping-with-scrapy-and-mongodb/
 
+### How to package a python app
+https://packaging.python.org/tutorials/packaging-projects/
+
 ### Add your own....
