@@ -14,9 +14,9 @@ The objective of this project is to create a web scraping application that can b
 ## Tech stack
 
 * Python 3.8
- * Beautiful Soup
- * Selenium Webdriver
- * Geckodriver
+  * Beautiful Soup
+  * Selenium Webdriver
+  * Geckodriver
 
 
 ## Libraries
