@@ -29,11 +29,12 @@ pip3 -r install requirements.txt
 
 ### Future updates
 
-- [ ] Cloud deployment
+- [ ] Cloud deployment (heroku)
 - [ ] Django web scraping app
 - [ ] Unit tests
 - [ ] Python package
 - [ ] write to csv files
+- [ ] CI/CD
 
 
 ### arguments
@@ -46,6 +47,7 @@ pip3 -r install requirements.txt
 -p preset + preset name (phonenum, email, )
 -w write to file (give file path and file name)
 -t telephone number
+
 ### examples
 
 ```
