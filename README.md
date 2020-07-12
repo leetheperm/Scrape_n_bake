@@ -35,7 +35,7 @@ options
 
 - [ ] Cloud deployment
 - [ ] Django web scraping app
-- [x] Python package
+- [ ] Python package
 
 
 
