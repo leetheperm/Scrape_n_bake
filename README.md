@@ -4,7 +4,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/leetheperm/Scrape_n_bake)
 ![no python2](https://img.shields.io/badge/python%202-not%20available-red)
 ![MIT license](https://img.shields.io/badge/license-MIT-lightgrey)
-![Selenium]https://img.shields.io/pypi/v/selenium
 
 ## Objective
 
