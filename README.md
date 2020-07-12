@@ -3,6 +3,7 @@
 
 ![Pyhton3.8](https://img.shields.io/badge/Python-3-blue)
 ![PyPI - Status](https://img.shields.io/pypi/status/wheel)
+![GitHub repo size](https://img.shields.io/github/repo-size/leetheperm/Scrape_n_bake)
 
 
 ## Objective
