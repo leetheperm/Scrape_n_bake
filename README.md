@@ -20,13 +20,6 @@ The objective of this project is to create a web scraping application that can b
   * Geckodriver
 
 
-## Libraries
-
-install all requirements by typing
-```
-pip3 -r install requirements.txt
-```
-
 ### Future updates
 
 - [ ] Cloud deployment (heroku)
