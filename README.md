@@ -4,7 +4,7 @@
 ![Pyhton3.8](https://img.shields.io/badge/Python-3-blue)
 ![PyPI - Status](https://img.shields.io/pypi/status/wheel)
 ![GitHub repo size](https://img.shields.io/github/repo-size/leetheperm/Scrape_n_bake)
-
+![no python2](https://img.shields.io/badge/python%202-not%20available-red)
 
 ## Objective
 
@@ -29,6 +29,10 @@ pip3 -r install requirements.txt
 options
 
 --help has help menu
+
+### plans
+
+
 
 ### arguments
 
