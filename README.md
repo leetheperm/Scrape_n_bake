@@ -6,6 +6,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/leetheperm/Scrape_n_bake)
 ![no python2](https://img.shields.io/badge/python%202-not%20available-red)
 ![MIT license](https://img.shields.io/badge/license-MIT-lightgrey)
+![Selenium]https://img.shields.io/pypi/v/selenium
 
 ## Objective
 
@@ -15,8 +16,8 @@ The objective of this project is to create a web scraping application that can b
 ## Tech stack
 
 * Python 3.8
-  * Beautiful Soup
-  * Selenium Webdriver
+  * Beautiful Soup(https://img.shields.io/pypi/v/selenium))
+  * Selenium Webdriver(https://img.shields.io/pypi/v/selenium)
   * Geckodriver
 
 
