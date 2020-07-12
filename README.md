@@ -1,7 +1,7 @@
 # Scrape n Bake
 
 
-![Pyhton3.8](https://img.shields.io/badge/Python-3-blue)
+![python version]https://img.shields.io/badge/python-3.7.4-green
 ![PyPI - Status](https://img.shields.io/pypi/status/wheel)
 ![GitHub repo size](https://img.shields.io/github/repo-size/leetheperm/Scrape_n_bake)
 ![no python2](https://img.shields.io/badge/python%202-not%20available-red)
