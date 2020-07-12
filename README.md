@@ -1,7 +1,7 @@
 # Scrape n Bake
 
 
-![python version](https://img.shields.io/badge/python-3.7.4-green)
+
 ![PyPI - Status](https://img.shields.io/pypi/status/wheel)
 ![GitHub repo size](https://img.shields.io/github/repo-size/leetheperm/Scrape_n_bake)
 ![no python2](https://img.shields.io/badge/python%202-not%20available-red)
@@ -13,12 +13,18 @@
 The objective of this project is to create a web scraping application that can be used for the most common use cases 
 
 
-## Tech stack
+## prerequisites
 
-* Python 3.8
-  * Beautiful Soup(https://img.shields.io/pypi/v/selenium))
-  * Selenium Webdriver(https://img.shields.io/pypi/v/selenium)
-  * Geckodriver
+ Python 3.8
+ ![python version](https://img.shields.io/badge/python-3.7.4-green)
+
+ Beautiful Soup
+ ![Bs4](https://img.shields.io/pypi/v/selenium))
+
+ Selenium Webdriver
+ ![Selenium](https://img.shields.io/pypi/v/selenium)
+
+ Geckodriver
 
 
 ### Future updates
