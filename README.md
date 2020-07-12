@@ -62,5 +62,5 @@ python3 webscrape.py -l /usr/share/listofsites -f "p"
 ### Contributors
 
 * Lee Davies
-  * Github ![my github](https://www.github.com/leetheperm)
-  * Facebook ![facebook group](https://www.facebook.com/groups/cypress.testers)
+  * Github [github](https://www.github.com/leetheperm)
+  * Facebook[facebook](https://www.facebook.com/groups/cypress.testers)
