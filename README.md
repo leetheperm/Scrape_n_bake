@@ -2,7 +2,6 @@
 
 
 ![Pyhton3](https://img.shields.io/badge/Python-3-blue)
-![Hackage-Deps](https://img.shields.io/hackage-deps/v/selenium)
 ![PyPI - Status](https://img.shields.io/pypi/status/wheel)
 
 
