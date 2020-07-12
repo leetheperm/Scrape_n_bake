@@ -463,3 +463,5 @@ JavaScript warning: https://assets.adobedtm.com/72afb75f5516/8fd66566a6e6/launch
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 JavaScript error: https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-base.min.5283af821a7fff853199f36d4fcda44a.js, line 360: SyntaxError: JSON.parse: expected ',' or '}' after property value in object at line 3 column 32 of the JSON data
 JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
