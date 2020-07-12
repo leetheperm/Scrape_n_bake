@@ -15,14 +15,13 @@ The objective of this project is to create a web scraping application that can b
 
 ## prerequisites
 
- Python 3.8
  ![python version](https://img.shields.io/badge/python-3.7.4-green)
 
- Beautiful Soup
- ![Bs4](https://img.shields.io/pypi/v/selenium))
 
- Selenium Webdriver
- ![Selenium](https://img.shields.io/pypi/v/selenium)
+ ![Bs4](https://img.shields.io/pypi/v/selenium)  Beautiful Soup
+
+
+ ![Selenium](https://img.shields.io/pypi/v/selenium)  Selenium Webdriver
 
  Geckodriver
 
