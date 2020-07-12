@@ -36,6 +36,8 @@ options
 - [ ] Cloud deployment
 - [ ] Django web scraping app
 - [ ] Python package
+- [ ] Create csv files
+- [ ] threading
 
 
 
