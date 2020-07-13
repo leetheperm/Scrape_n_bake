@@ -58,14 +58,5 @@ or
 python3 webscrape.py -l /usr/share/listofsites -f "p"
 ```
 
-options
 
---help has help menu
 
-### Contributors
-
-<!-- If you do commit a change, feel free to add your details in here -->
-
-* Lee Davies
-  * [Github](https://www.github.com/leetheperm)
-  * [Facebook](https://www.facebook.com/groups/cypress.testers)
