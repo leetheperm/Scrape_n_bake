@@ -33,6 +33,7 @@ The objective of this project is to create a web scraping application that can b
 - [ ] Python package
 - [ ] write to csv files
 - [ ] CI/CD
+- [ ] Rest API (flask, SQL or MongoDB)
 
 
 ### arguments
